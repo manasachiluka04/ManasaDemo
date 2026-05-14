@@ -1,3 +1,4 @@
 # ManasaDemo
 This is my Demo repo
-Author - Manasa Chiluka
+<br>
+Author - Manasa Chiluka </br>
